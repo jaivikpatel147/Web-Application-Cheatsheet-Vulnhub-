@@ -6,6 +6,7 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them understan
 [1]: https://twitter.com/jaivikpatel47
 # Follow us on [![alt text][1.1]][1]
 
+<img src="https://zerothcode.com/wp-content/uploads/2018/12/finaltransparent.png" alt="vulnhub-web-app" border="0">
 <img src="https://i.ibb.co/xfPQjzq/vulnhub-web-app.jpg" alt="vulnhub-web-app" border="0">
 
 Table of Contents
